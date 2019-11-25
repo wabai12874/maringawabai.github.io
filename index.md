@@ -47,7 +47,7 @@
       <div class="container">
 
         <div class="logo">
-          <a href="index.html"><img src="logo.png" alt="logo"></a>
+          <a href="index.md"><img src="logo.png" alt="logo"></a>
         </div>
 
         <div class="responsive"><i data-icon="m" class="ion-navicon-round"></i></div>
